@@ -220,6 +220,7 @@ an Asus C425 (LEONA) or Asus C433/C434 (SHYVANA)?
         echo -e "Because of your current firmware, I'm unable to determine the exact mode of your Chromebook.
 Please select the number for the correct option from the list below:"
 
+        fi
         coral_boards=(
             "ASTRONAUT (Acer Chromebook 11 [C732])"
             "BABYMEGA (Asus Chromebook C223NA)"
